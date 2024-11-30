@@ -1,0 +1,45 @@
+https://codeforces.com/contest/2033/problem/A
+
+Nomi: O'yin
+
+Sub Text:  
+    <p>
+        Ali va Vali koordinata chizig'ida bir nuqta bilan o'yin o'ynashga qaror qilishdi. 
+        Nuqta hozirda <code>x = 0</code> pozitsiyada joylashgan. Ular navbatma-navbat harakat qilishadi va 
+        Ali o'yinni birinchi boshlaydi.
+    </p>
+    <p>
+        <code>i</code>-harakatda, joriy o'yinchi nuqtani <code>2⋅i−1</code> birlikka ma'lum yo'nalishda harakatlantiradi. 
+        Ali har doim nuqtani manfiy yo'nalishda harakatlantiradi, Vali esa har doim musbat yo'nalishda harakatlantiradi.
+    </p>
+    <h3>Misol</h3>
+    <ul>
+        <li>Ali nuqta pozitsiyasini <code>-1</code> ga o'zgartiradi, <code>x = -1</code> bo'ladi;</li>
+        <li>Vali nuqta pozitsiyasini <code>+3</code> ga o'zgartiradi, <code>x = 2</code> bo'ladi;</li>
+        <li>Ali nuqta pozitsiyasini <code>-5</code> ga o'zgartiradi, <code>x = -3</code> bo'ladi;</li>
+        <li>...</li>
+    </ul>
+    <p> O'yin nuqta koordinatasining absolyut qiymati <code>n</code> dan oshmagan holatga qadar davom etadi. Aniqrog'i, o'yin <code>-n ≤ x ≤ n</code> bo'lganida davom etadi. O'yin har doim tugashi isbotlangan.</p>
+
+  
+Input Text: 
+
+<p>Birinchi qatorda bitta butun son <code>t</code> (<code>1 ≤ t ≤ 100</code>) — Ali va Vali o'ynagan o'yinlar soni.</p>
+<p>Har bir o'yin bitta son <code>n</code> (<code>1 ≤ n ≤ 100</code>) bilan tavsiflanadi — o'yin qachon tugashini belgilaydigan shart.</p>
+
+
+Output Text: 
+<p>Har bir o'yin uchun natijani alohida qatorga chiqaring. Agar oxirgi yurishni Ali qilgan bo'lsa, <strong>Ali</strong> (qavs va tirnoqlarsiz) ni chiqaring; aks holda <strong>Vali</strong> ni chiqaring.</p>
+
+
+Comment Text:
+
+Time (ms): 1000
+
+Memory: 64
+
+Example: 2
+
+All test: 15
+
+

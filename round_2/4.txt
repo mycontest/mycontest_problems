@@ -1,0 +1,19 @@
+https://acmp.ru/index.asp?main=task&id_task=893
+
+Nomi: Xokkey
+
+Sub Text: Xokkey musobaqalarida N ta jamoa qatnashadi. Agar har bir mukofotli o'rin faqat bitta jamoa tomonidan egallanadigan bo'lsa, oltin, kumush va bronza medallarini taqsimlashning nechta variant mavjud?
+
+Input Text: Kirish da N butun soni (1 ≤ N ≤ 10^4) berilgan – jamoalar soni.
+
+Output Text: Chiqish da yagona son chiqarilishi kerak – ishonchli taqdirlash usullarining soni.
+
+Comment Text:
+
+Time (ms): 1000
+
+Memory: 64
+
+Example: 2
+
+All test: 15

@@ -1,0 +1,20 @@
+https://acmp.ru/index.asp?main=task&id_task=665
+
+Nomi: Yangi yil
+
+Sub Text: Nonvoyning fikricha, Yangi yilga tortning ideal simmetrik shaklini olish uchun uni duxovkadan chiqargan vaqt soat "palindrom" vaqtini ko'rsatishi kerak, ya'ni bu vaqt chapdan o'ngga va o'ngdan chapga bir xil o'qiladi.
+Tortni duxovkaga qo'yilgan vaqtdan kelib chiqib, uni chiqarish uchun mos palindrom vaqtni aniqlaydigan dastur yozing.
+
+Input Text: Kirish da yagona qatorida tortni duxovkaga qo'yilgan vaqt HH:MM formatida berilgan (00 ≤ HH ≤ 23, 00 ≤ MM ≤ 59).
+
+Output Text: Chiqish da yagona qatorida HH:MM formatida eng yaqin "palindrom" vaqtni chiqarish kerak.
+
+Comment Text: <a href="https://acmp.ru/index.asp?main=task&id_task=665" > try to here acmp.ru </a>
+
+Time (ms): 1000
+
+Memory: 64
+
+Example: 2
+
+All test: 15

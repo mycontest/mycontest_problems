@@ -1,0 +1,52 @@
+https://acmp.ru/index.asp?main=task&id_task=451
+https://leetcode.com/problems/permutation-sequence/description/
+
+Nomi: Faqat bir-ikki
+
+Sub Text: Berilgan natural son N uchun faqat 1 va 2 raqamlaridan tashkil topgan va 2<sup>N</sup > ga bo‘linadigan sonni topish talab etiladi.
+
+Input Text: Kirish da 100 dan oshmaydigan natural son N berilgan.
+
+Output Text: Chiqish da faqat 1 va 2 raqamlaridan tashkil topgan, uzunligi 10 000 ta raqamdan oshmaydigan sonni yozing.
+
+Comment Text: <a href="https://acmp.ru/index.asp?main=task&id_task=451" > try to here acmp.ru </a>
+
+Time (ms): 1000
+
+Memory: 64
+
+Example: 2
+
+All test: 15
+
+#include <stdio.h>
+ 
+const mn=10000;
+int n,a[mn]={2},i,j,m[mn];
+ 
+int div2(int k){
+  int i,x,c=0;
+  for(i=k;i>=0;i--){
+    x=m[i]+10*c;
+    m[i]=x/2;
+    c=x-2*m[i];
+  }
+  return c;
+}
+ 
+int main(){
+  freopen("input.txt","r",stdin);
+  freopen("output.txt","w",stdout);
+  scanf("%d", &n);
+  for(i=1;i<n;i++){
+    a[i]=1;
+    for(j=0;j<=i;j++) m[j]=a[j];
+    for(j=0;j<=i;j++)
+      if(div2(i)){a[i]=2;break;}
+  }
+  for(i=n-1;i>=0;i--) printf("%d",a[i]);
+  return 0;
+}
+
+
+

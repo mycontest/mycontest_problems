@@ -1,0 +1,39 @@
+https://acmp.ru/index.asp?main=task&id_task=167
+
+Nomi: Uchburchaklar soni
+
+Sub Text:
+
+<p> 
+Rasmda ko‘rsatilgan shaklni (katta teng tomonli uchburchak, kichik teng tomonli uchburchaklardan iborat) ko‘rib chiqamiz. Rasmda 4 darajadan iborat uchburchaklar to‘plangan shakl berilgan.
+Dastur yozish talab etiladi. Ushbu dastur berilgan shaklda nechta uchburchak borligini aniqlashi kerak (faqat "kichik" uchburchaklarni emas, balki umuman barcha uchburchaklarni hisobga olish lozim — xususan, qalin chiziq bilan ajratilgan uchburchak va butun shakl ham bizni qiziqtiruvchi uchburchaklar hisoblanadi).
+</p>
+<img src="https://acmp.ru/asp/article/image.asp?id=203" />
+
+Input Text: Kirish da bitta son N — shakldagi darajalar soni berilgan (1 ≤ N ≤ 10^5).
+
+Output Text: Chiqish da bitta son — bunday shakldagi uchburchaklar soni ko'rsatilishi kerak.
+
+Comment Text: <a href="https://acmp.ru/index.asp?main=task&id_task=167" > try to here acmp.ru </a>
+
+Time (ms): 1000
+
+Memory: 64
+
+Example: 2
+
+All test: 15
+
+#include<iostream>
+#include<string>
+using namespace std;
+int main()
+{
+ __int64 n;
+ cin >> n;
+ cout << n*(n + 2)*(n * 2 + 1) / 8; 
+ return 0;
+}
+
+222112221212111112121221221121211221111121212111111121212222212211222122122212112211221221112222121221212121121112111222221122221221121111212121211211211221121211211121122122211212221112122111122212112212121112121121122111112111211111212122112
+222112221212111112121221221121211221111121212111111121212222212211222122122212112211221221112222121221212121121112111222221122221221121111212121211211211221121211211121122122211212221112122111122212112212121112121121122111112111211111212122112
