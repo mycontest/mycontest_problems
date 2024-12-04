@@ -1,0 +1,32 @@
+https://robocontest.uz/tasks/1049
+
+Nomi: Omadsiz chipta
+
+Sub Text: Komil juda irimchi bola bo'lib, u poyezda ketish uchun chipta sotib oldi. Endi uni bir savol qiynamoqda. U chipta omadli yoki omadsiz ekanligini aniqlamoqchi. Komil chiptani omadsiz deb hisoblaydi qachonki unda 1 raqamidan keyin 3 raqami yonma-yon kelgan bo'lsa. Unga buni aniqlashda yordam bering. 
+_Questions are taken from robocontest planet_
+
+Input Text: chipta raqami (1<= N <= 10^18).
+
+Output Text: Agar chipta omadli bo'lsa ″omadli chipta″, aks holda ″omadsiz chipta″ deya chop eting.
+
+Comment Text: <a href="https://robocontest.uz/tasks/1049" > Bu yerda sinab ko'ring 👉 robocontest.uz </a>
+
+Time (ms): 1000
+
+Memory: 64
+
+Example: 2
+
+All test: 15
+
+Code: "#include <iostream>
+using namespace std;
+int main()
+{
+
+    string s;
+    cin>>s;
+    
+    if(s.find("13")==string::npos) cout<<"omadli chipta";
+    else cout<<"omadsiz chipta";
+}"

@@ -1,0 +1,36 @@
+https://robocontest.uz/tasks/0119
+
+Nomi: Azimjonning qo'ylari
+
+Sub Text: Azimjonning bir poda qo‘ylari bor. U sizga qo‘ylarining jami oyoqlari sonini aytadi. Siz esa podadagi qo‘ylarda jami bo‘lib nechta quloq borligini topishingiz kerak.
+_Questions are taken from robocontest planet_
+
+Input Text: Bitta butun n soni — qo‘ylarning oyoqlari soni (1 ≤ n ≤ 10^9).
+
+Output Text: Agar Azimjon sanashda adashib ketgan bo‘lsa, -1 sonini, aks holda, masalada so‘ralgan sonni chop eting.
+
+Comment Text: <a href="https://robocontest.uz/tasks/0119" > Bu yerda sinab ko'ring 👉 robocontest.uz </a>
+
+Time (ms): 1000
+
+Memory: 64
+
+Example: 2
+
+All test: 15
+
+Code: "#include <iostream>
+using namespace std;
+int main()
+{
+
+    int a;
+    cin>>a;
+    
+    if(a%4==0){
+     	 cout<<a/2<<endl;
+        
+    } else {
+        cout<<-1<<endl;
+    }
+}"

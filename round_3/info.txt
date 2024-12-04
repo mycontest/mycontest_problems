@@ -1,0 +1,10 @@
+Name: Toshkent xalqaro universiteti (TIU) - Saralash Bosqichi 
+
+Start: 05-12-2024 15:00
+End:   05-12-2024 18:00
+
+Content:
+<section>
+        <h5>Tanlov:</h5>
+        <p>Eng yaxshi dasturchi tanlovi uchun saralash bosqichi.</p>
+</section>
