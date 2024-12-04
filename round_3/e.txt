@@ -8,8 +8,6 @@ Quyida 1 dan 6 gacha tartibdagi uchburchakli sonlar ifodalangan:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/First_six_triangular_numbers.svg/1024px-First_six_triangular_numbers.svg.png" />
 
-_Questions are taken from robocontest planet_
-
 Input Text: Kirish faylining yagona satrida bitta butun son, N(0 ≤ N ≤ 10^9) soni kiritiladi
 
 Output Text: Chiqish faylida N-tartibli uchburchakli sonning qiymatini chiqaring.

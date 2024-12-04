@@ -3,11 +3,10 @@ https://robocontest.uz/tasks/0043
 Nomi: O'rin almashtirish
 
 Sub Text: Ikkita butun son berilgan, ularni o'rnini almashtiruvchi dastur tuzing
-_Questions are taken from robocontest planet_
 
-Input Text: kirish faylining yagona satrida qiymati [-10^9 … 10^9] oralig'ida bo'lgan ikkita butun son bo'sh joy bilan ajratilgan holda kiritiladi.
+Input Text: Kirish faylining yagona satrida qiymati [-10^9 … 10^9] oralig'ida bo'lgan ikkita butun son bo'sh joy bilan ajratilgan holda kiritiladi.
 
-Output Text: chiqish faylining yagona satrida bo'sh joy bilan ajratilgan holda kirish faylida berilgan sonlarning o'rnini almashtirib chiqaring!
+Output Text: Chiqish faylining yagona satrida bo'sh joy bilan ajratilgan holda kirish faylida berilgan sonlarning o'rnini almashtirib chiqaring!
 
 Comment Text: <a href="https://robocontest.uz/tasks/0043" > Bu yerda sinab ko'ring 👉 robocontest.uz </a>
 
@@ -15,7 +14,7 @@ Time (ms): 1000
 
 Memory: 64
 
-Example: 2
+Example: 1
 
 All test: 15
 

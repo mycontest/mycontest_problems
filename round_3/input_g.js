@@ -28,7 +28,7 @@ let input = (id) => {
     fs.writeFileSync(path.join(__dirname, _root, `input${id}.txt`), `${n} ${k}`, { encoding: "utf-8" })
 }
 
-for (let i = 1; i < _test_count; i++) input(i);
+for (let i = 1; i <= _test_count; i++) input(i);
 
 // all test case to ziped
-execSync(`zip testcase_${_root}.zip ${path.join(__dirname, _root, `*.txt`)}`);
+execSync(`zip -j testcase_${_root}.zip ${path.join(__dirname, _root, `*.txt`)}`);

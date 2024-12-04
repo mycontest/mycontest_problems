@@ -3,7 +3,6 @@ https://robocontest.uz/tasks/0119
 Nomi: Azimjonning qo'ylari
 
 Sub Text: Azimjonning bir poda qo‘ylari bor. U sizga qo‘ylarining jami oyoqlari sonini aytadi. Siz esa podadagi qo‘ylarda jami bo‘lib nechta quloq borligini topishingiz kerak.
-_Questions are taken from robocontest planet_
 
 Input Text: Bitta butun n soni — qo‘ylarning oyoqlari soni (1 ≤ n ≤ 10^9).
 

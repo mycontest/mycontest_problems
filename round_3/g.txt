@@ -5,7 +5,6 @@ Nomi: Bilmasvoy matematika darsida
 Sub Text: Bilmasvoy matematika darsida sondan 1 ni ayirishni o’rgangan edi. U darsdan chiqib uyga borgancha o’qituvchisi o’rgatgan ba’zi narsalar yodidan ko’tarildi. Shundan so’ng u o’zining sondan 1 ni ayirish algoritmini o’ylab topdi. Uning fikricha sondan 1 ni ayirish quyidagicha bajariladi:
 - Agar sonning oxirgi raqami 0 ga teng bo’lmasa shu son 1 taga kamaytiriladi
 - Agar sonning oxirgi raqami 0 ga teng bo’lsa shunchaki sonning oxirgi raqami o’chiriladi. (10 ga bo’lgan kabi, ya’ni 1000 soni 100 ga o’zgaradi, son 0 bo’lganda o’zgarmaydi).
-_Questions are taken from robocontest planet_
 
 Input Text: Kirish faylining yagona satrida ikkita butun son, N (2<= N <= 10^9) va K (1<= K <= 50) sonlari kiritiladi.
 
