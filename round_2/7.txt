@@ -1,5 +1,3 @@
-https://acmp.ru/index.asp?main=task&id_task=665
-
 Nomi: Yangi yil
 
 Sub Text: Nonvoyning fikricha, Yangi yilga tortning ideal simmetrik shaklini olish uchun uni duxovkadan chiqargan vaqt soat "palindrom" vaqtini ko'rsatishi kerak, ya'ni bu vaqt chapdan o'ngga va o'ngdan chapga bir xil o'qiladi.
