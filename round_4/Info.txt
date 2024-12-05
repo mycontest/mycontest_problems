@@ -1,9 +1,18 @@
 Name: MYCONTEST ROUND #1 (Div 1)
 
-Start: 08-12-2024 12:00
-End:   07-12-2024 20:00
+Start: 14-12-2024 15:00
+End:   14-12-2024 20:00
 
 Content:
 <section>
-        <h5>Tanlov:</h5>
+       ❄️🌍 MYCONTEST Sayyorasida qish yaqinlashmoqda! ❄️
+        Qishga tayyorgarlik ko‘rish vaqti keldi! 😌 Ammo xavotirga o‘rin yo‘q, bu yerda o'tin maydalash kabi yumushlar yo‘q — MYCONTEST sayyorasida energiya ta'minoti muammosiz ishlaydi! 🔋✨
+        ❗ Lekin, qishki tayyorgarlik doirasida ba'zi hisoblash jarayonlariga yordam ko‘rsatishimiz zarur bo‘lishi mumkin. Birgalikda ishlash va harakat qilish bu jarayonda katta ahamiyatga ega! 🤝🌟
+        Keling, qish faslini MYCONTEST bilan iliq, samarali va unutilmas tarzda kutib olaylik! 💪🔥
+        🏆 Musobaqa baholash qoidalari:
+        Eng ko'p topshiriq bajargan ishtirokchilar birinchi o‘rinda turadi: Dastlab qabul qilingan (muvaffaqiyatli bajarilgan) topshiriqlar soni asosida ishtirokchilar reytingi tuziladi.
+        Teng natijalar bo‘lgan holatda jarima asosida tartiblanadi: Agar ikki yoki undan ortiq ishtirokchi bir xil topshiriq sonini bajargan bo‘lsa, ularning jarimalari hisobga olinadi.
+        Jarima qanday hisoblanadi? Har bir xato urinish uchun jarima ballari qo‘shiladi. Topshiriq muvaffaqiyatli bajarilgan vaqtgacha bo‘lgan har bir daqiqa uchun qo‘shimcha jarima hisoblanadi.
+        Umumiy tartib: Avval qabul qilingan topshiriqlar soni. Keyin jarima miqdori (kamroq jarima yaxshi natija hisoblanadi).
+        Mazkur baholash tizimi barcha ishtirokchilar uchun adolatli va shaffof tarzda qo‘llanadi. Har biringizga omad tilaymiz! 💪
 </section>

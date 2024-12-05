@@ -1,9 +1,0 @@
-Name: MYCONTEST ROUND #2 (Div 1)
-
-Start: 21-12-2024 12:00
-End:   22-12-2024 12:00
-
-Content:
-<section>
-        <h5>Tanlov:</h5>
-</section>
